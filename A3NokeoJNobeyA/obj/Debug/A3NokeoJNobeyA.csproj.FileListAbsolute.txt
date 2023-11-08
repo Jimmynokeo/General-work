@@ -1,0 +1,7 @@
+E:\a1SCHOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOL\Visual Studio C#\A3NokeoJNobeyA\A3NokeoJNobeyA\obj\Debug\A3NokeoJNobeyA.csproj.AssemblyReference.cache
+E:\a1SCHOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOL\Visual Studio C#\A3NokeoJNobeyA\A3NokeoJNobeyA\obj\Debug\A3NokeoJNobeyA.csproj.CoreCompileInputs.cache
+E:\a1SCHOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOL\Visual Studio C#\A3NokeoJNobeyA\A3NokeoJNobeyA\bin\Debug\A3NokeoJNobeyA.exe.config
+E:\a1SCHOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOL\Visual Studio C#\A3NokeoJNobeyA\A3NokeoJNobeyA\bin\Debug\A3NokeoJNobeyA.exe
+E:\a1SCHOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOL\Visual Studio C#\A3NokeoJNobeyA\A3NokeoJNobeyA\bin\Debug\A3NokeoJNobeyA.pdb
+E:\a1SCHOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOL\Visual Studio C#\A3NokeoJNobeyA\A3NokeoJNobeyA\obj\Debug\A3NokeoJNobeyA.exe
+E:\a1SCHOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOL\Visual Studio C#\A3NokeoJNobeyA\A3NokeoJNobeyA\obj\Debug\A3NokeoJNobeyA.pdb
